@@ -56,6 +56,7 @@ html {
     background-color: white;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 2px solid #ff6666; /* Borde rojo claro */
 }
 
 .main-content h1 {
@@ -84,6 +85,7 @@ html {
     margin: 20px auto;
     max-width: 100%;
     border-radius: 10px;
+    border: 2px solid #ff6666; /* Borde rojo claro para las imágenes */
 }
 
 /* Footer */
