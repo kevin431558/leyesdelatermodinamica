@@ -92,7 +92,7 @@ html {
 footer {
     text-align: center;
     padding: 10px 0;
-    background-color: #ff6666; /* Fondo oscuro del pie de página */
-    color: white; /* Texto en color rojo claro para combinar con los bordes y el menú */
+    background-color: #ff6666; /* Fondo rojo claro del pie de página */
+    color: #fff; /* Texto en blanco para buen contraste con el fondo */
     margin-top: 40px;
 }
