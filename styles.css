@@ -35,11 +35,17 @@ nav ul li a {
     font-size: 1.2rem;
     padding: 15px 0;
     display: block;
+    transition: background-color 0.3s ease;
 }
 
 nav ul li a:hover {
     background-color: #575757;
     border-radius: 5px;
+}
+
+/* Transición suave para el menú */
+html {
+    scroll-behavior: smooth;
 }
 
 /* Contenido principal */
@@ -57,6 +63,13 @@ nav ul li a:hover {
     color: #333;
     text-align: center;
     margin-bottom: 20px;
+}
+
+.main-content h2 {
+    font-size: 1.8rem;
+    color: #444;
+    margin-top: 20px;
+    margin-bottom: 15px;
 }
 
 .main-content p {
@@ -79,4 +92,5 @@ footer {
     padding: 10px 0;
     background-color: #333;
     color: white;
-    margin
+    margin-top: 40px;
+}
