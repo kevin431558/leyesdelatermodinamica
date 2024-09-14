@@ -9,7 +9,7 @@ body {
 
 /* Menú de navegación */
 nav {
-    background-color: #333;
+    background-color: #ff6666; /* Fondo rojo claro que combina con los marcos */
     color: white;
     text-align: center;
     position: sticky;
@@ -39,7 +39,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #575757;
+    background-color: #ff3333; /* Un rojo más oscuro al pasar el cursor */
     border-radius: 5px;
 }
 
